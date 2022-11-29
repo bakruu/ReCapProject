@@ -10,12 +10,12 @@ namespace OOP1
     {
         public void Add(Product product)
         {
-            product.ProductName = "Kamera";
+            Console.WriteLine(product.ProductName + "eklendi.");
         }
 
-        public void BiseyYap(int sayi)
+        public void Update(Product product)
         {
-            sayi = 99;
+            Console.WriteLine(product.ProductName + "güncellendi.");
         }
 
     }

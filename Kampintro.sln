@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metotlar", "Metotlar\Metotl
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP1", "OOP1\OOP1.csproj", "{AC131808-1027-4D41-9423-A1DD17D83B7F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koleksiyonlar", "Koleksiyonlar\Koleksiyonlar.csproj", "{B3834739-10D5-4C1A-B1CC-22657756C3C9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{AC131808-1027-4D41-9423-A1DD17D83B7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC131808-1027-4D41-9423-A1DD17D83B7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC131808-1027-4D41-9423-A1DD17D83B7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3834739-10D5-4C1A-B1CC-22657756C3C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3834739-10D5-4C1A-B1CC-22657756C3C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3834739-10D5-4C1A-B1CC-22657756C3C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3834739-10D5-4C1A-B1CC-22657756C3C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
