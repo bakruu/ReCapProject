@@ -6,7 +6,14 @@ using System.Threading.Tasks;
 
 namespace Oop2
 {
-    internal class TuzelMusteri
+
+    //miras inheritance
+    public class TuzelMusteri:Musteri
     {
+
+        public string TcNo { get; set; }
+        public string VergiNo { get; set; }
+        public string SirketAdi { get; set; }
     }
+
 }

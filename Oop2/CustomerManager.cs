@@ -3,20 +3,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.Xml.Linq;
 
 namespace Oop2
 {
-
-    public class Musteri
+    public class CustomerManager
     {
-        public int Id { get; set; }
-        public string MusteriNo { get; set; }
+        public void Ekle(Musteri musteri)
+        {
 
-
-
-
-
-
+        }
     }
 }
